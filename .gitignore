@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.codex/
+.codex-chrome-profile/
+*.log
+*.tsbuildinfo
+gcm-diagnose.log
